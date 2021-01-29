@@ -1,0 +1,84 @@
+[
+    {
+        "name":"Apple",
+        "symbol":"AAPL",
+        "section": "Electronic Technology",
+        "industry":" Telecommunications Equipment",
+        "employees": 147000,
+        "desc":"Apple Inc. designs, manufactures and markets mobile communication and media devices, personal computers and portable digital music players. The Company sells a range of related oftware, services, accessories, networking solutions, and third-party digital content and applications."
+    },
+    {
+        "name":"General Motors Corporation",
+        "symbol":"GM",
+        "section": "Consumer Durables",
+        "industry":"Motor Vehicles",
+        "employees": 164000,
+        "desc":"General Motors Co. engages in the designing, manufacturing, and selling of cars, trucks and automobile parts. It also provides automotive financing services through General Motors Financial Company, Inc.  "
+    },
+    {
+        "name":"Shopify",
+        "symbol":"SHOP",
+        "section": "Retail Trade",
+        "industry":"Internet Retail",
+        "employees": 5000,
+        "desc":"Shopify, Inc. operates a cloud-based commerce platform designed for small and medium-sized businesses. Its software is used by merchants to run business across all sales channels, including web, tablet and mobile storefronts,social media storefronts, and brick-and-mortar and pop-up shops.  "
+    },
+    {
+        "name":"Amazon",
+        "symbol":"AMZN",
+        "section": "Retail Trade",
+        "industry":"Internet Retail",
+        "employees": 798000,
+        "desc":"Amazon.com, Inc. offers a range of products and services through its Websites. The Company operates through three segments: North America, International and Amazon Web Services (AWS). The Company's products include merchandise and content that it purchases for resale from vendors and those offered by third-party sellers. "
+    },
+    {
+        "name":"Tesla",
+        "symbol":"TSLA",
+        "section": "Consumer Durables",
+        "industry":"Motor Vehicles",
+        "employees": 48016,
+        "desc":"Tesla, Inc (formerly Tesla Motors, Inc) designs, develops, manufactures and sells fully electric vehicles, and energy storage systems, as well as installs, operates and maintains solar and energy storage products. The Company operates through two segments: Automotive, and Energy generation and storage."
+    },
+    {
+        "name":"Qualcomm",
+        "symbol":"QCOM",
+        "section": "Electronic Technology",
+        "industry":"Telecommunications Equipment",
+        "employees": 41000,
+        "desc":"QUALCOMM, Inc. engages in the development, design, and provision of digital telecommunications products and services. It operates through the following segments: Qualcomm CDMA Technologies (QCT), Qualcomm Technology Licensing (QTL), and Qualcomm Strategic Initiatives (QSI)."
+    },
+    {
+        "name":"SNAP",
+        "symbol":"Snap",
+        "section": "Technology Services",
+        "industry":"Internet Software/Services",
+        "employees": 3195,
+        "desc":"Snap, Inc. engages in the operation of its camera platform. Its products include Snapchat, using the camera and editing tools to take and share Snaps, Friends Page, which lets users create and use Stories, Groups, Video and Chat, Discover for searching and surfacing relevant Stories, Snap Map, which shows friends, Stories and Snaps near the user, Memories, for saving personal collections, and Spectacles, wearable sunglasses capable of taking Snaps and interacting directly with the Snapchat application."
+    },
+    {
+        "name":"Square",
+        "symbol":"SQ",
+        "section": "Technology Services",
+        "industry":"Information Technology Services",
+        "employees": 3835,
+        "desc":"Square, Inc. engages in the provision of credit card payment processing solutions.It is a cohesive commerce ecosystem that helps sellers start, run, and grow their businesses.The firms sellers downloads the Square Point of Sale mobile app, they can quickly and easily take their first payment, typically within minutes."
+    },
+    {
+        "name":"Domo",
+        "symbol":"DOMO",
+        "section": "Technology Services",
+        "industry":"Packaged Software",
+        "employees": 3835,
+        "desc":"Domo, Inc. designs, develops, and markets executive management software solutions. It offers customized software tools for business operations, customer relationship management, human resources, and financial reporting.
+        "
+    },
+    {
+        "name":"Alphabet",
+        "symbol":"GOOG",
+        "section": "Technology Services",
+        "industry":"Packaged Software",
+        "employees": 3835,
+        "desc":"Alphabet Inc. is a holding company. The Company's businesses include Google Inc. (Google) and its Internet products, such as Access, Calico, CapitalG, GV, Nest, Verily, Waymo and X. The Company's segments include Google and Other Bets."
+    }
+
+]
